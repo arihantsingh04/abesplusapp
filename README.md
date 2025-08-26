@@ -27,11 +27,6 @@ Stay on top of your **attendance, schedule, quizzes, and more** – all in one p
 
 ---
 
-[url=https://ibb.co/tMJrjhKD][img][/img][/url]
-[url=https://ibb.co/HTZcqX2H][img]https://i.ibb.co/3mKxcksC/2.png[/img][/url]
-[url=https://ibb.co/chhDzpRd][img]https://i.ibb.co/3mmBt8VH/3.png[/img][/url]
-[url=https://imgbb.com/]upload images[/url]
-
 ## 🖼️ Screenshots  
 <p align="center">
   <img src="https://i.ibb.co/zh4v95xZ/1.png" width="200"/>
