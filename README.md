@@ -28,6 +28,7 @@ Stay on top of your **attendance, schedule, quizzes, and more** – all in one p
 ---
 
 ## 🖼️ Screenshots  
+
 <p align="center">
   <img src="https://i.ibb.co/zh4v95xZ/1.png" width="200"/>
   <img src="https://i.ibb.co/3mKxcksC/2.png" width="200"/>
