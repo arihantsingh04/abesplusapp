@@ -7,7 +7,7 @@ Stay on top of your **attendance, schedule, quizzes, and more** – all in one p
 
 ## 🚀 Download  
 <p align="center">
-  <a href="https://github.com/arihantsingh04/abesplusapp/releases/download/v1/app-release.apk">
+  <a href="https://github.com/arihantsingh04/abesplusapp/releases/download/v5/app-release.apk">
     <img src="https://img.shields.io/badge/⬇️%20Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK"/>
   </a>
 </p>  
