@@ -29,14 +29,14 @@ Ready to simplify your college life? Download the latest version of the Abesplus
 ## Screenshots 📸
 
 <p align="center">
-    <img src="images/2.jpg" alt="Screenshot 1" width="200" style="margin: 5px;"/>
-    <img src="images/1.jpg" alt="Screenshot 2" width="200" style="margin: 5px;"/>
-    <img src="images/3.jpg" alt="Screenshot 3" width="200" style="margin: 5px;"/>
-    <img src="images/4.jpg" alt="Screenshot 4" width="200" style="margin: 5px;"/>
+    <img src="images/2.png" alt="Screenshot 1" width="200" style="margin: 5px;"/>
+    <img src="images/1.png" alt="Screenshot 2" width="200" style="margin: 5px;"/>
+    <img src="images/3.png" alt="Screenshot 3" width="200" style="margin: 5px;"/>
+    <img src="images/4.png" alt="Screenshot 4" width="200" style="margin: 5px;"/>
 </p>
 <p align="center">
-    <img src="images/5.jpg" alt="Screenshot 5" width="200" style="margin: 5px;"/>
-    <img src="images/6.jpg" alt="Screenshot 6" width="200" style="margin: 5px;"/>
+    <img src="images/5.png" alt="Screenshot 5" width="200" style="margin: 5px;"/>
+    <img src="images/6.png" alt="Screenshot 6" width="200" style="margin: 5px;"/>
 </p>
 
 ## Overview 📝
