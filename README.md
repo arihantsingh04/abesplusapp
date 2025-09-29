@@ -37,7 +37,6 @@ Ready to simplify your college life? Download the latest version of the Abesplus
 <p align="center">
     <img src="images/5.jpg" alt="Screenshot 5" width="200" style="margin: 5px;"/>
     <img src="images/6.jpg" alt="Screenshot 6" width="200" style="margin: 5px;"/>
-    <img src="images/7.jpg" alt="Screenshot 7" width="200" style="margin: 5px;"/>
 </p>
 
 ## Overview 📝
