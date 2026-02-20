@@ -5,7 +5,7 @@
 Ready to simplify your college life? Download the latest version of the Abesplus app now!
 
 <p align="center">
-  <a href="https://github.com/arihantsingh04/abesplusapp/releases/download/v5/app-release.apk" style="text-decoration: none;">
+  <a href="https://github.com/arihantsingh04/abesplusapp/releases/download/v8/app-release.apk" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK" height="50">
   </a>
 </p>
